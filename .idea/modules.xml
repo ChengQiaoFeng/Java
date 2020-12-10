@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20201110/20201110.iml" filepath="$PROJECT_DIR$/20201110/20201110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C8003_Entry/C8003_Entry.iml" filepath="$PROJECT_DIR$/C8003_Entry/C8003_Entry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C8004_ScrollDemo/C8004_ScrollDemo.iml" filepath="$PROJECT_DIR$/C8004_ScrollDemo/C8004_ScrollDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C8005_SplitDemo/C8005_SplitDemo.iml" filepath="$PROJECT_DIR$/C8005_SplitDemo/C8005_SplitDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C8006_BorderLayoutDemo/C8006_BorderLayoutDemo.iml" filepath="$PROJECT_DIR$/C8006_BorderLayoutDemo/C8006_BorderLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C8007_FlowLayoutDemo/C8007_FlowLayoutDemo.iml" filepath="$PROJECT_DIR$/C8007_FlowLayoutDemo/C8007_FlowLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C8009_BoxLayoutDemo/C8009_BoxLayoutDemo.iml" filepath="$PROJECT_DIR$/C8009_BoxLayoutDemo/C8009_BoxLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C8010_GirdBagLayoutDemo/C8010_GirdBagLayoutDemo.iml" filepath="$PROJECT_DIR$/C8010_GirdBagLayoutDemo/C8010_GirdBagLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C8011_LoginFrame/C8011_LoginFrame.iml" filepath="$PROJECT_DIR$/C8011_LoginFrame/C8011_LoginFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C8013_KeyDemo/C8013_KeyDemo.iml" filepath="$PROJECT_DIR$/C8013_KeyDemo/C8013_KeyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c8008_GridLayout/c8008_GridLayout.iml" filepath="$PROJECT_DIR$/c8008_GridLayout/c8008_GridLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/index/index.iml" filepath="$PROJECT_DIR$/index/index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuxingjisuan/tuxingjisuan.iml" filepath="$PROJECT_DIR$/tuxingjisuan/tuxingjisuan.iml" />
+    </modules>
+  </component>
+</project>
