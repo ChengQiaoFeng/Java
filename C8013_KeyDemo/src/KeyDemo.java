@@ -60,4 +60,7 @@ public class KeyDemo extends JFrame {
         lbChar.setLocation(ran.nextInt(sw-font.getSize()),
                 ran.nextInt(sh-font.getSize()-30));//保证在窗口内出现
     }
+    public void hhhh(){
+        System.out.println("hhh");
+    }
 }
